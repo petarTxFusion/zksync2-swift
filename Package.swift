@@ -16,7 +16,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/zksync-sdk/web3swift", .exact("3.1.2")),
-        .package(url: "https://github.com/mxcl/PromiseKit", .exact("6.15.3")),
+        .package(url: "https://github.com/mxcl/PromiseKit", .exact("6.16.2")),
         .package(
             url: "https://github.com/Alamofire/Alamofire.git",
             from: "5.4.3"
